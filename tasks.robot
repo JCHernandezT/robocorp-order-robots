@@ -46,7 +46,7 @@ Donwnload CSV
 
 Go to Website
     [Arguments]    ${url}
-    Open Available Browser    https://robotsparebinindustries.com/#/robot-order
+    Open Available Browser    ${url}
 
 Manage Modal
     Click Element If Visible    css:button.btn-dark
