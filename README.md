@@ -5,4 +5,4 @@
 - Embeds the screenshot of the robot to the PDF receipt.
 - Creates ZIP archive of the receipts and the images.
 
-[Certificate level II: Build a robot](https://robocorp.com/docs/courses/build-a-robot)
+[Level II: Build a robot](https://robocorp.com/docs/courses/build-a-robot)
